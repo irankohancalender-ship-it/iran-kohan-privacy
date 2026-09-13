@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="سیاست حریم خصوصی برنامه ایران کهن">
+  <title>سیاست حریم خصوصی ایران کهن</title>
+  <style>
+    :root {
+      color: #263c3a;
+      background: #f6f0e5;
+      font-family: Tahoma, Arial, sans-serif;
+      line-height: 1.9;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 24px 16px;
+      background: linear-gradient(180deg, #e9dcc1 0, #f6f0e5 240px);
+    }
+
+    main {
+      width: min(760px, 100%);
+      margin: 0 auto;
+      padding: clamp(24px, 5vw, 48px);
+      border: 1px solid #d7c59f;
+      border-radius: 24px;
+      background: #fffaf0;
+      box-shadow: 0 16px 48px rgba(47, 61, 55, 0.1);
+    }
+
+    h1, h2 { color: #244c48; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.6rem, 5vw, 2.3rem); }
+    h2 { margin: 28px 0 8px; font-size: 1.15rem; }
+    p { margin: 8px 0; }
+    .updated { color: #8b6237; font-size: 0.9rem; font-weight: 700; }
+    .notice {
+      margin-top: 28px;
+      padding: 14px 16px;
+      border-right: 4px solid #bf9140;
+      border-radius: 10px;
+      background: #f4e8cd;
+    }
+    a { color: #1d5f76; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>سیاست حریم خصوصی برنامه ایران کهن</h1>
+    <p class="updated">آخرین به‌روزرسانی: ۲۲ شهریور ۱۴۰۵</p>
+
+    <p>برنامه «ایران کهن» با هدف نمایش گاهشمار جلالی، یادمان‌های فرهنگی و ثبت مناسبت‌های شخصی طراحی شده است.</p>
+
+    <h2>جمع‌آوری و اشتراک‌گذاری اطلاعات</h2>
+    <p>این برنامه برای استفاده به ثبت‌نام، شماره تلفن یا ایمیل نیاز ندارد. برنامه اطلاعات شخصی، موقعیت مکانی، مخاطبان، تصاویر، شناسه تبلیغاتی یا اطلاعات استفاده را جمع‌آوری نمی‌کند و چیزی را با توسعه‌دهنده یا اشخاص ثالث به اشتراک نمی‌گذارد.</p>
+
+    <h2>مناسبت‌های شخصی و تنظیمات</h2>
+    <p>عنوان، تاریخ و توضیح مناسبت‌هایی که کاربر وارد می‌کند، همراه با تم انتخابی، فقط در حافظه خصوصی برنامه روی همان دستگاه نگهداری می‌شود. این اطلاعات به سرور ارسال نمی‌شود و پشتیبان‌گیری ابری خودکار برنامه نیز غیرفعال است.</p>
+    <p>کاربر می‌تواند مناسبت‌های ثبت‌شده را از داخل برنامه حذف کند. حذف برنامه از دستگاه نیز داده‌های محلی آن را حذف می‌کند.</p>
+
+    <h2>دسترسی‌ها و اینترنت</h2>
+    <p>نسخه فعلی برنامه مجوز اینترنت یا دسترسی به داده‌های حساس دستگاه درخواست نمی‌کند. اگر در نسخه‌ای آینده شیوه کار برنامه تغییر کند، این سند و اظهارنامه Data safety پیش از انتشار آن نسخه به‌روزرسانی خواهند شد.</p>
+
+    <h2>کودکان</h2>
+    <p>برنامه عمداً هیچ اطلاعاتی از کاربران، از جمله کودکان، جمع‌آوری نمی‌کند. این برنامه به‌طور اختصاصی برای کودکان طراحی نشده است.</p>
+
+    <h2>استقلال محتوایی</h2>
+    <p>«ایران کهن» یک محصول فرهنگی مستقل است و وابستگی یا نمایندگی هیچ نهاد دولتی، مذهبی یا سیاسی را ندارد.</p>
+
+    <h2>تماس</h2>
+    <p>برای پرسش‌های مربوط به حریم خصوصی با نشانی زیر تماس بگیرید:</p>
+    <p><a href="mailto:irankohan.calendar@gmail.com">irankohan.calendar@gmail.com</a></p>
+
+    <p class="notice">پیش از انتشار برنامه، این صفحه در یک نشانی عمومی، پایدار و دارای HTTPS بارگذاری شود.</p>
+  </main>
+</body>
+</html>
